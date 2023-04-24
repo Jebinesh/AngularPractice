@@ -10,8 +10,8 @@ Angualar pipes - | -used to convert one datatype to another
 
 Types of pipes
   
-DatePipe: Formats a date value.
-UpperCasePipe: Transforms text to uppercase.
-LowerCasePipe: Transforms text to lowercase.
-CurrencyPipe: Transforms a number to the currency string.
-PercentPipe: Transforms a number to the percentage string.
+1.DatePipe: Formats a date value.
+2.UpperCasePipe: Transforms text to uppercase.
+3.LowerCasePipe: Transforms text to lowercase.
+4.CurrencyPipe: Transforms a number to the currency string.
+5.PercentPipe: Transforms a number to the percentage string.
