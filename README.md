@@ -4,7 +4,15 @@ Learning angular
 
 creating an components ng generate component <component name>
 
+#Binding in Angular
+
+Interpolation--{{}},
+Property binding -- property such as variable is inserted in component.ts,
+Event binding -- ngModel (dynamic binding)
 interpoliation {{}}
+
+
+BootstrapModule is the first module of angular app to load module --main.ts
 
 Angualar pipes - | -used to convert one datatype to another
 
