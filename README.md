@@ -23,3 +23,6 @@ Types of pipes
 3.LowerCasePipe: Transforms text to lowercase.
 4.CurrencyPipe: Transforms a number to the currency string.
 5.PercentPipe: Transforms a number to the percentage string.
+
+Adding Styles to angular
+-Bootstrap
