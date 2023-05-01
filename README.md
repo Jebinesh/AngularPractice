@@ -2,6 +2,7 @@
 
 Learning angular 
 
+Server starting -- ng serve
 creating an components ng generate component <component name>
 
 #Binding in Angular
