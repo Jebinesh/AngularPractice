@@ -1,0 +1,10 @@
+<small *ngIf='invalidIndicator'>{{errorMessage}}</small>
+<div>
+UserName:<input type="text" name="username"  [(ngModel)]="username" />
+Password:<input type="password" name="password" [(ngModel)]="password"/>
+</div>
+<button (click)=handleLogin() >Login</button>
+
+
+<!-- username : {title} --Interpolation
+(click)=handleLogin()  - event binding -->
