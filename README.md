@@ -17,3 +17,6 @@ Types of pipes
 
 Adding Styles to angular
 -Bootstrap
+
+  
+  Steps to add angular project in github
