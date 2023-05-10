@@ -20,3 +20,6 @@ Adding Styles to angular
 
   
   Steps to add angular project in github
+  pull
+  push 
+  fetch
