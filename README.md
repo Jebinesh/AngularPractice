@@ -25,3 +25,6 @@ Adding Styles to angular
   fetch
   
   Rest api for spring...
+  
+  sessionstorage...
+  getItem,setItem,removeItems
